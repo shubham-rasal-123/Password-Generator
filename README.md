@@ -4,7 +4,7 @@ Create secure passwords that are impossible to crack.
 
 ## Libraly used
 
-(`import random`)
+`import random`
 
 ## How to run the script
 
