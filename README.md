@@ -1,14 +1,15 @@
 # Password Generator
-
 Create secure passwords that are impossible to crack.
+![image](image.png)
 
-## Libraly used
-
-`import random`
-
-## How to run the script
-
+## 📚 Library used
++ [random](https://docs.python.org/3/library/random.html)
++ [python](https://www.python.org/downloads)
++ 
+## 🌟 How to run the script
 ```
 python password_generator.py
-
 ```
+
+## 📺 Demo
+![image](image.png)
